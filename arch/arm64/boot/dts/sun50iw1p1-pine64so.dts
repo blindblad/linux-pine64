@@ -2193,7 +2193,7 @@
 			status = "okay";
 			device_type = "lcd0";
 			lcd_used = <0x0>;
-			lcd_driver_name = "marks_mipi";
+			lcd_driver_name = "tfc_k9700ltwx40tc";
 			lcd_backlight = <0x32>;
 			lcd_if = <0x4>;
 			lcd_x = <0x400>;
